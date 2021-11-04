@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/**
+*This class has 2 functions.
+**/
 public class Main2 {
     public static void main(String[] args) {
         Main2able main2able1;
@@ -27,13 +30,9 @@ public class Main2 {
 
         };
 
-//        System.out.println(function.func("2"));
+        System.out.println(function.func("2"));
         System.out.println(function.func("1"));
-        System.out.println(function.func("1"));
-        System.out.println(function.func("1"));
-        System.out.println(function.func("1"));
-        System.out.println(function.func("1"));
-        System.out.println(function.func("1"));  System.out.println(function.func("1"));
+   
 
         System.out.println("Done");
 
